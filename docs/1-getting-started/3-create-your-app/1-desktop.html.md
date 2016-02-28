@@ -30,8 +30,7 @@ create the project, a designated name and an optional *identifier*. Once the inf
 
 	<div class="alert--warning">Be aware that the ID field is also known as the *package identifier* for Android and the *bundle identifier* for iOS.</div>
 
-3. You should now see a view like below, with your new project shown and marked with a left green border, a green play button next to it and a 
-green bar at the bottom. You should also see a server address indicating it's running and the active project. Only one project will be active and running
+3. After pressing the grey play button next to your new project, you should now see a view like below, with your project shown and marked with a left green border, a green play button next to it and a green bar at the bottom. You should also see a server address indicating it's running and the active project. Only one project will be active and running
 at any time.
 
    ![](/images/desktop-app-create.png)
